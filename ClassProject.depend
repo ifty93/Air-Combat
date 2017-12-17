@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1513518933 source:c:\users\ift khan\desktop\grphcs_proj\classproject\main.cpp
+	<GL/glu.h>
+	<GL/glut.h>
+	<Windows.h>
+	<Mmsystem.h>
+	<bits/stdc++.h>
+	"game.h"
+	"imagehandler.h"
+	"soundhandler.h"
+
+1513442859 c:\users\ift khan\desktop\grphcs_proj\classproject\game.h
+	<bits/stdc++.h>
+	"backScene.h"
+	"bullet.h"
+	"imagehandler.h"
+	"hero.h"
+	"enemy.h"
+	"soundhandler.h"
+	"texthandler.h"
+
+1513444354 c:\users\ift khan\desktop\grphcs_proj\classproject\backscene.h
+	<windows.h>
+	<MMSystem.h>
+	"imagehandler.h"
+
+1513510918 c:\users\ift khan\desktop\grphcs_proj\classproject\imagehandler.h
+	<assert.h>
+	<fstream>
+	<bits/stdc++.h>
+
+1513366009 c:\users\ift khan\desktop\grphcs_proj\classproject\bullet.h
+
+1513518977 c:\users\ift khan\desktop\grphcs_proj\classproject\hero.h
+	"bullet.h"
+	"fighter.h"
+	"soundhandler.h"
+
+1513321541 c:\users\ift khan\desktop\grphcs_proj\classproject\fighter.h
+
+1513510187 c:\users\ift khan\desktop\grphcs_proj\classproject\enemy.h
+	"fighter.h"
+	"bullet.h"
+	"soundhandler.h"
+
+1513518589 c:\users\ift khan\desktop\grphcs_proj\classproject\soundhandler.h
+	<mmsystem.h>
+
+1513450334 c:\users\ift khan\desktop\grphcs_proj\classproject\texthandler.h
+
